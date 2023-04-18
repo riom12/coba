@@ -2,3 +2,5 @@ Top RPG
 - Elden Ring
 - Monster Hunter World
 - Haven
+
+Yang ditambahkan dari branch
